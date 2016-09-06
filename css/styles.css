@@ -1,0 +1,252 @@
+/* GEN */
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: #000; 
+    text-align: left; 
+    margin: 0 auto;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: #A7A7A7;
+}
+
+a:hover {
+    opacity: 0.5;
+}
+
+h1 {
+    margin: 0;
+}
+
+.section {
+    margin: 0 auto; 
+    display: block;  
+}
+
+.para {
+    font-size: 14pt; 
+    text-align: center;
+    line-height: 22pt;
+    margin: auto;
+    width: 60%;
+}
+
+.st {
+    font-family: 'Roboto', sans-serif;
+    font-size: 48pt;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/* INDEX */
+
+#index {
+    background: #fff url(../_media/index1.png) no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    position: left;
+    height: 100vh;
+}
+
+#name {
+    font-family: 'Open Sans', serif;
+    font-size: 80pt;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000; 
+    letter-spacing: 10px;
+    padding-top: 250px;
+}
+
+#tag {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40pt;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000;
+    letter-spacing: 3px;
+    margin: 0;
+}
+
+#button {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20pt;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000;
+    letter-spacing: 2px;
+    margin: 0 auto;
+    padding-top: 30px;
+    width: 100px;
+    display: block;
+}
+
+#button a {
+    text-decoration: none;
+    color: #000;
+    padding: 8px;
+    border: 3px solid #000;
+    opacity: 1;
+}
+
+#button a:hover {
+    color: #000; 
+    opacity: 0.5;
+}
+
+/* NAV */
+
+nav {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16pt;
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: 1px solid #000;
+    padding: 0.5%;
+}
+
+nav ul {
+    margin: 0 auto;
+}
+
+nav li {
+    padding: 2%; 
+    display: inline;
+}
+
+nav a {
+    text-decoration: none;
+    color: #000;
+}
+
+nav a:hover, a:active {
+    opacity: 0.5;
+}
+
+/* ABOUT */
+
+#about {
+    padding-top: 1%;
+    height: 90vh;
+    max-width: 140%;
+}
+
+#about h1 { 
+    font-family: 'Open Sans', serif;
+    letter-spacing: 10px;
+}
+
+#icon {
+    margin: auto;
+    display: block;
+    padding: 10px;
+}
+
+/* CONTACT */
+
+#contact {
+    padding-top: 1%;
+    height: 90vh;
+    max-width: 140%;
+}
+
+#contact h1 { 
+    font-family: 'Open Sans', serif;
+    letter-spacing: 10px;
+}
+
+/* WORK */
+
+#work {
+    margin-bottom: 3%;
+}
+
+#work h1 {
+    font-family: 'Open Sans', serif;
+    letter-spacing: 10px;
+    padding-top: 1%;
+}
+
+#wl {
+    font-size: 16pt;
+    letter-spacing: 10px;
+}
+
+#work a {
+    color: #a7a7a7;
+}
+
+#work a:hover {
+    opacity: 0.5;
+}
+
+#container {
+    width: 100%;
+}
+
+#r1, #r2, #r3, #r4, #r5 {
+    margin: 0 2%;
+    width: 97%;
+    display: inline-grid;
+    padding: 0 2%;
+}
+
+#r1 h2, #r2 h2, #r3 h2, #r4 h2, #r5 h2 {
+    font-size: 16pt;
+    font-weight: bold;
+    margin-bottom: 0.5%;
+}
+
+#r1 h3, #r2 h3, #r3 h3, #r4 h3, #r5 h3 {
+    font-size: 13pt;
+    margin: 0.3%;
+}
+
+#r1 p, #r2 p, #r3 p, #r4 p, #r5 p {
+    font-size: 12pt;
+    line-height: 18pt;
+    margin: 1% 0 10% 0;
+}
+
+.proj {
+    width: 30%;
+    float: left;
+    padding: 1%;
+}
+
+.pre {
+    width: 90%;  
+    padding: 12px;
+    border: solid #000 0.5px;
+}
+
+/* CAPSTONE */
+
+#cap {
+    padding-top: 1%;
+    height: inherit;
+    max-width: 140%;
+}
+
+#cap h1 { 
+    font-family: 'Open Sans', serif;
+    letter-spacing: 10px;
+}
+
+/* STUDIO C */
+
+#stu {
+    padding-top: 1%;
+    height: inherit;
+    max-width: 140%;
+}
+
+#stu h1 { 
+    font-family: 'Open Sans', serif;
+    letter-spacing: 10px;
+}
