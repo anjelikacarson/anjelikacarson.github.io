@@ -53,7 +53,7 @@ h1 {
 /* INDEX */
 
 #index {
-    background: #fff url(../_media/index1.png) no-repeat;
+    background: #fff url(../_media/index.png) no-repeat;
     background-attachment: fixed;
     background-size: cover;
     position: left;
