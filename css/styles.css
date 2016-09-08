@@ -53,6 +53,7 @@ h1 {
 /* INDEX */
 
 #index {
+    background: #fff url(../media/index.png) no-repeat;
     background-attachment: fixed;
     background-size: cover;
     position: left;
@@ -89,7 +90,7 @@ h1 {
     letter-spacing: 2px;
     margin: 0 auto;
     padding-top: 30px;
-    width: 100px;
+    width: 200px;
     display: block;
 }
 
