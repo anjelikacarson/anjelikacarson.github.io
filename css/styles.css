@@ -155,19 +155,6 @@ nav a:hover, a:active {
     padding: 10px;
 }
 
-/* CONTACT */
-
-#contact {
-    padding-top: 1%;
-    height: 90vh;
-    max-width: 140%;
-}
-
-#contact h1 { 
-    font-family: 'Open Sans', serif;
-    letter-spacing: 10px;
-}
-
 /* WORK */
 
 #work {
