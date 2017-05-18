@@ -125,7 +125,7 @@ nav a:hover, a:active {
 #r1, #r2, #r3, #r4, #r5, #r6, #r7 {
     margin: 0 2%;
     width: 97%;
-    display: inline-grid;
+    display: block;
     padding: 0 2%;
 }
 
